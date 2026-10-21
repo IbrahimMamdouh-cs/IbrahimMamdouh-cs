@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Ibrahim Mamdouh
 
-![Header Banner](SAVE_2261021_175844%20(1).png)
+![Header Banner]<img src="SAVE_2261021_175844 (1).png" width="100%">
+
 
 ## 🎯 About Me
 - 🎓 First-Year Computer Science Student at **Sinai University (Arish Campus)**
